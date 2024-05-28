@@ -1,0 +1,10 @@
+/* Contact.css */
+.contact-link {
+    color: #83a598; /* Example color */
+    text-decoration: none; /* Remove underline */
+  }
+  
+  .contact-link:hover {
+    text-decoration: underline; /* Underline on hover */
+    color:#ebdbb2
+  }
