@@ -4,6 +4,7 @@ import './App.css';
 import Header from './Header';
 import Landing from './pages/Landing';
 import Contact from './pages/Contact';
+import Projects from './pages/Projects';
 
 function App() {
   return (
@@ -19,6 +20,12 @@ function App() {
           <main>
             <Header />
             <Contact />
+          </main>
+        } /> 
+        <Route path={'/projects'} element={
+          <main>
+            <Header />
+            <Projects />
           </main>
         } /> 
       </Routes>

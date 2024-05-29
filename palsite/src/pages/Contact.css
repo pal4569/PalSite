@@ -8,3 +8,21 @@
     text-decoration: underline; /* Underline on hover */
     color:#ebdbb2
   }
+
+  h5 {
+    text-align: center;
+    font-size: 16px;
+    color: #d79921
+    }
+
+  .margin-left-git {
+    margin-left: -141px;
+  }
+
+  .margin-left-linkedin {
+    margin-left: -50px;
+  }
+
+  .margin-left-leet {
+    margin-left: -124px;
+  }
